@@ -87,23 +87,6 @@ print(me.currently)
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|:-----------|:---------------|:---------|
-| [Career Tool Kit](https://github.com/ASWINa1636/Career_Tool_Kit) | CLI app to scan resumes, generate `.docx`/`.pdf`, calculate CGPA & track history | `Python` `PyMuPDF` `python-docx` |
-| [Job Viewers](https://github.com/ASWINa1636/Job-Viewers) | Upload resume → NLP skill extraction → personalized job recommendations | `HTML` `Python` `spaCy` `Flask` |
-| [Smart Terminal](https://github.com/ASWINa1636/Smart-Terminal) | Modular terminal assistant: file ops, PDF tasks, email workflows & voice commands | `Python` `Speech Recognition` |
-| [Career Toolkit Web](https://github.com/ASWINa1636/Career-toolkit-web-application-using-Streamlit) | Streamlit ATS resume optimizer + professional resume builder | `Python` `Streamlit` `NLP` |
-| [Car Game CLI](https://github.com/ASWINa1636/car-game-code) | Terminal racing game — install via `pip install car-game` and play instantly | `C++` `Python` |
-| [Password Manager](https://github.com/ASWINa1636/Password-generator) | Terminal password manager with generation, CRUD & secure account management | `Python` `MySQL` |
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
