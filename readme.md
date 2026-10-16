@@ -151,6 +151,9 @@ How this unit verifies its own work — because shipping is not the same as done
 | **Email** | [aswinanand1636@gmail.com](mailto:aswinanand1636@gmail.com) |
 | **LinkedIn** | [linkedin.com/aswin-a-954107292](https://www.linkedin.com/in/aswin-a-954107292) |
 | **GitHub** | [github.com/ASWINa1636](https://github.com/ASWINa1636) |
+| **Portfolio** | [aswina1636.github.io](https://aswina1636.github.io/) |
+| **HackerRank** | [hackerrank.com/aswinanand1636](https://www.hackerrank.com/profile/aswinanand1636) |
+| **LeetCode** | [leetcode.com/Aswin1636](https://leetcode.com/u/Aswin1636/) |
 | **Location** | Chennai, India · Open to relocation & remote |
 | **Lead Time** | Available now — internships & full-time |
 
