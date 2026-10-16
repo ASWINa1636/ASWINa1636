@@ -3,7 +3,7 @@
 │  D A T A S H E E T                                           REV. 2024.01  │
 ├────────────────────────────────────────────────────────────────────────────┤
 │                                                                            │
-│   PART NUMBER ......  ASWINA1636                                           │
+│   PART NUMBER ......  ASWIN-A-1636-TN01-&-TN74                             │
 │   DESCRIPTION ......  Multi-Role Engineering Unit                          │
 │   OPERATING MODES ..  SDE  ·  DATA ANALYTICS  ·  DATA ENGINEERING  ·  CLOUD│
 │   PACKAGE ..........  Single Unit, Human-Grade, Chennai, India             │
